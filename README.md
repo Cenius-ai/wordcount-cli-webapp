@@ -29,7 +29,7 @@ Clone the repo and follow the project's own docs (`README`/`install.sh` inside) 
 
 ## Architecture
 
-Open the repo and you'll find a complete Full-stack app application (11 files).
+Open the repo and you'll find a complete Full-stack app application (3 files).
 
 ## FAQ
 
